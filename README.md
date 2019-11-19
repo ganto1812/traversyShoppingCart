@@ -1,2 +1,2 @@
-## Traversy Shopping Cart
-# React APP
+# Traversy Shopping Cart
+## React APP
